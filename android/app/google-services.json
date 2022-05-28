@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "273688840997",
+    "project_id": "sa7e7-com",
+    "storage_bucket": "sa7e7-com.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273688840997:android:1749fc2ea7f1b3cd5c68cc",
+        "android_client_info": {
+          "package_name": "com.sa7e7.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273688840997-k7ge4al4gct08herbc85atr6ekeu413v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-dCOYNOtMxC04yu0hRCJ8WNxiCtZW7sM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273688840997-k7ge4al4gct08herbc85atr6ekeu413v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "273688840997-rgin87f58glcu07i1tj0nk3qt00sp4p5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codefox.quizzle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

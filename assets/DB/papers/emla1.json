@@ -1,0 +1,174 @@
+{
+    "id": "emla1",
+    "title": "تحسين الإملاء المستوى الأول",
+    "image_url": "",
+    "Description": "تحسين الإملاء",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "emlaq001",
+            "question": "هل يتصل حرف الحاء بما بعده من حروف الكلمة؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "emlaq002",
+            "question": "هل يتصل حرف اللام بما بعده من حروف الكلمة؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "emlaq003",
+            "question": "هل يتصل حرف اللام بما بعده من حروف الكلمة؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "emlaq004",
+            "question": "هل يتصل حرف الجيم بما بعده من حروف الكلمة؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "emlaq005",
+            "question": "هل يتصل حرف الطاء بما بعده من حروف الكلمة؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "emlaq005",
+            "question": "",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "emlaq006",
+            "question": "هل يتصل حرف الواو بما بعده من حروف الكلمة؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "emlaq007",
+            "question": "هل يتصل حرف الراء بما بعده من حروف الكلمة؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "emlaq008",
+            "question": "هل يتصل حرف الألف بما بعده من حروف الكلمة؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "emlaq009",
+            "question": "هل يتصل حرف الذال بما بعده من حروف الكلمة؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "emlaq010",
+            "question": "هل يتصل حرف الحاء بما بعده من حروف الكلمة التالية إن كان آخر حرف بكلمته؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        }
+    ]
+}
