@@ -45,7 +45,7 @@ class Resultcreen extends GetView<QuizController> {
                     Padding(
                       padding: const EdgeInsets.only(top: 20, bottom: 5),
                       child: Text(
-                        'مبروك',
+                        'مبارك',
                         style: kHeaderTS.copyWith(color: _textColor),
                       ),
                     ),
@@ -112,7 +112,8 @@ class Resultcreen extends GetView<QuizController> {
                       children: [
                         Expanded(
                             child: MainButton(
-                          color: Colors.blueGrey,
+                          textColor: Colors.black,
+                          color: ahmedGreen,
                           onTap: () {
                             controller.tryAgain();
                           },
@@ -126,6 +127,7 @@ class Resultcreen extends GetView<QuizController> {
                           onTap: () {
                             controller.saveQuizResults();
                           },
+                          color: greenAhmed,
                           title: 'الصفحة الرئيسية',
                         ))
                       ],

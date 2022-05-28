@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       navigatorKey: navigatorKey,
-      title: 'Flutter Demo',
+      title: 'sa7e7',
       theme: Get.find<ThemeController>().getLightheme(),
       darkTheme: Get.find<ThemeController>().getDarkTheme(),
       getPages: AppRoutes.pages(),

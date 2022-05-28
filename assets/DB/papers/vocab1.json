@@ -1,0 +1,130 @@
+{
+    "id": "vocab1",
+    "title": "تحسين إثراء المفردات المستوى الأول",
+    "image_url": "",
+    "Description": "المقابل الفصيح وإثراء المفردات",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "vocab001",
+            "question": "اختر البديل الأفصح مما يلي",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "أريكة"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "كنبة"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "vocab002",
+            "question": "اختر البديل الأفصح مما يلي",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "المصباح"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "اللمبة"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "vocab003",
+            "question": "اختر البديل الترجمة العربية",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "المصارف المالية"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "البنوك"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "vocab004",
+            "question": "اختر البديل الترجمة العربية",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "الموبايل"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "المحمول أو النقال"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "vocab005",
+            "question": "اختر البديل الترجمة العربية",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "الهاتف"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "التلفون"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "vocab006",
+            "question": "اختر البديل الأفصح مما يلي",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "البوفية"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "المقهى"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "القهوة"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "الكافيه"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "vocab007",
+            "question": "(ما هي ترجمة كلمة (سكانر (scanner) المعربة؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "الناسوخ"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "الماسح الضوئي"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "الهاتف"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "الرائي"
+                }
+            ],
+            "correct_answer": "٢"
+        }
+    ]
+}

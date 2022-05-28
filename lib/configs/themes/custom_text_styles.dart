@@ -7,9 +7,7 @@ const kHeaderTS = TextStyle(
 const kDetailsTS = TextStyle(fontSize: 12);
 
 TextStyle cardTitleTs(context) => TextStyle(
-    color: UIParameters.isDarkMode(context)
-        ? Theme.of(context).textTheme.bodyText1!.color
-        : Theme.of(context).primaryColor,
+    color: UIParameters.isDarkMode(context) ? greenAhmed : greenAhmed,
     fontSize: 18,
     fontWeight: FontWeight.bold);
 

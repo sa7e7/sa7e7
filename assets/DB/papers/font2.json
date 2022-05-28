@@ -1,13 +1,13 @@
 {
-    "id": "emla1",
-    "title": "تحسين الإملاء المستوى الأول",
+    "id": "font2",
+    "title": "تحسين الخط المستوى الثاني",
     "image_url": "",
-    "Description": "تحسين الإملاء",
+    "Description": "تحسين الخط",
     "time_seconds": 900,
     "questions": [
         {
-            "id": "emlaq001",
-            "question": "هل يتصل حرف الحاء بما بعده من حروف الكلمة؟",
+            "id": "fontq001",
+            "question": "هل يمكن أن تكتب الهاء تحت الميم في نحو كلمة 'همام'؟",
             "answers": [
                 {
                     "identifier": "١",
@@ -21,8 +21,8 @@
             "correct_answer": "١"
         },
         {
-            "id": "emlaq002",
-            "question": "هل يتصل حرف اللام بما بعده من حروف الكلمة؟",
+            "id": "fontq002",
+            "question": "هل يمكن أن تكتب الميم تحت ميم أخىرى في نحو كلمة 'مميز'؟",
             "answers": [
                 {
                     "identifier": "١",
@@ -36,8 +36,8 @@
             "correct_answer": "١"
         },
         {
-            "id": "emlaq003",
-            "question": "هل يتصل حرف اللام بما بعده من حروف الكلمة؟",
+            "id": "fontq003",
+            "question": "هل يمكن أن تكتب الجيم تحت الميم في نحو كلمة 'مجد'؟",
             "answers": [
                 {
                     "identifier": "١",
@@ -51,8 +51,8 @@
             "correct_answer": "١"
         },
         {
-            "id": "emlaq004",
-            "question": "هل يتصل حرف الجيم بما بعده من حروف الكلمة؟",
+            "id": "fontq004",
+            "question": "هل يمكن أن تكتب الحاء تحت الميم في نحو كلمة 'محور'؟",
             "answers": [
                 {
                     "identifier": "١",
@@ -66,38 +66,8 @@
             "correct_answer": "١"
         },
         {
-            "id": "emlaq005",
-            "question": "هل يتصل حرف الطاء بما بعده من حروف الكلمة؟",
-            "answers": [
-                {
-                    "identifier": "١",
-                    "Answer": "نعم"
-                },
-                {
-                    "identifier": "٢",
-                    "Answer": "لا"
-                }
-            ],
-            "correct_answer": "١"
-        },
-        {
-            "id": "emlaq005",
-            "question": "هل يتصل حرف الطاء بما بعده من حروف الكلمة؟",
-            "answers": [
-                {
-                    "identifier": "١",
-                    "Answer": "نعم"
-                },
-                {
-                    "identifier": "٢",
-                    "Answer": "لا"
-                }
-            ],
-            "correct_answer": "١"
-        },
-        {
-            "id": "emlaq006",
-            "question": "هل يتصل حرف الواو بما بعده من حروف الكلمة؟",
+            "id": "fontq005",
+            "question": "هل يمكن أن تكتب النون تحت الميم في نحو كلمة 'منير'؟",
             "answers": [
                 {
                     "identifier": "١",
@@ -111,8 +81,8 @@
             "correct_answer": "٢"
         },
         {
-            "id": "emlaq007",
-            "question": "هل يتصل حرف الراء بما بعده من حروف الكلمة؟",
+            "id": "fontq006",
+            "question": "هل يمكن أن تكتب الواو تحت الميم في نحو كلمة 'موسى'؟",
             "answers": [
                 {
                     "identifier": "١",
@@ -126,8 +96,8 @@
             "correct_answer": "٢"
         },
         {
-            "id": "emlaq008",
-            "question": "هل يتصل حرف الألف بما بعده من حروف الكلمة؟",
+            "id": "fontq007",
+            "question": "هل يمكن أن تكتب الياء غير النهائية تحت الميم 'مياه'؟",
             "answers": [
                 {
                     "identifier": "١",
@@ -141,8 +111,8 @@
             "correct_answer": "٢"
         },
         {
-            "id": "emlaq009",
-            "question": "هل يتصل حرف الذال بما بعده من حروف الكلمة؟",
+            "id": "fontq008",
+            "question": "هل يمكن أن تكتب الراء تحت اللام في نحو كلمة 'الرخاء'؟",
             "answers": [
                 {
                     "identifier": "١",
@@ -156,8 +126,8 @@
             "correct_answer": "٢"
         },
         {
-            "id": "emlaq010",
-            "question": "هل يتصل حرف الحاء بما بعده من حروف الكلمة التالية إن كان آخر حرف بكلمته؟",
+            "id": "fontq009",
+            "question": "هل يمكن أن تكتب الشين تحت الميم في نحو كلمة 'مشارب'؟",
             "answers": [
                 {
                     "identifier": "١",

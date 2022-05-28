@@ -1,0 +1,139 @@
+{
+    "id": "pronouns2",
+    "title": "تحسين النطق المستوى الثاني",
+    "image_url": "",
+    "Description": "تحسين الخط",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "pronouns001",
+            "question": "هل نلفظ اللام الساكنة في نحو كلمة 'الشمس'؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "صفر"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "سفر"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "pronouns002",
+            "question": "حركة حرف العين 'لتسمعن' إن كانت للمخاطبين الجمع",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "الضمة"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "الفتحة"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "الكسرة"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "السكون"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "pronouns003",
+            "question": "حركة حرف اللام في 'لتأكلنه' للمفرد المذكر",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "الفتحة"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "الكسرة"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "السكون"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "الضمة"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "pronouns004",
+            "question": "حركة حرف العين 'لتسمعن' إن كانت للمخاطبين الجمع",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "الفتحة"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "الكسرة"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "السكون"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "الضمة"
+                }
+            ],
+            "correct_answer": "٤"
+        },
+        {
+            "id": "pronouns005",
+            "question": "حركة حرف العين 'لتسمعن' إن كانت للمخاطب المفرد",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "الفتحة"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "الكسرة"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "السكون"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "الضمة"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "pronouns006",
+            "question": "حركة حرف العين 'لتسمعن' إن كانت للمخاطبة المفردة",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "الفتحة"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "الكسرة"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "السكون"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "الضمة"
+                }
+            ],
+            "correct_answer": "٢"
+        }
+    ]
+}

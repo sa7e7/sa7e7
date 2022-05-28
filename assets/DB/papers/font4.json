@@ -1,0 +1,279 @@
+{
+    "id": "font4",
+    "title": "تحسين الخط المستوى الرابع",
+    "image_url": "",
+    "Description": "تحسين الخط",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "fontq001",
+            "question": "ما أقصى عدد للحروف المتتالية التي قد تكون تراكبا رأسيا في كلمة 'الحجج'؟",
+            "answers": [
+                {
+                    "identifier": "٠",
+                    "Answer": "٠"
+                },
+                {
+                    "identifier": "١",
+                    "Answer": "١"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "٢"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "٣"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "٣"
+                }
+            ],
+            "correct_answer": "٤"
+        },
+        {
+            "id": "fontq002",
+            "question": "ما أقصى عدد للحروف المتتالية التي قد تكون تراكبا رأسيا في كلمة 'محمد'؟",
+            "answers": [
+                {
+                    "identifier": "٠",
+                    "Answer": "٠"
+                },
+                {
+                    "identifier": "١",
+                    "Answer": "١"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "٢"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "٣"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "٤"
+                }
+            ],
+            "correct_answer": "٣"
+        },
+        {
+            "id": "fontq003",
+            "question": "ما أقصى عدد للحروف المتتالية التي قد تكون تراكبا رأسيا في كلمة 'مثل'؟",
+            "answers": [
+                {
+                    "identifier": "٠",
+                    "Answer": "٠"
+                },
+                {
+                    "identifier": "١",
+                    "Answer": "١"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "٢"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "٣"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "٤"
+                }
+            ],
+            "correct_answer": "٠"
+        },
+        {
+            "id": "fontq004",
+            "question": "ما أقصى عدد للحروف المتتالية التي قد تكون تراكبا رأسيا في كلمة 'إلحاحهم'؟",
+            "answers": [
+                {
+                    "identifier": "٠",
+                    "Answer": "٠"
+                },
+                {
+                    "identifier": "١",
+                    "Answer": "١"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "٢"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "٣"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "٤"
+                }
+            ],
+            "correct_answer": "٣"
+        },
+        {
+            "id": "fontq005",
+            "question": "ما أقصى عدد للحروف المتتالية التي قد تكون تراكبا رأسيا في كلمة 'الجمال'؟",
+            "answers": [
+                {
+                    "identifier": "٠",
+                    "Answer": "٠"
+                },
+                {
+                    "identifier": "١",
+                    "Answer": "١"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "٢"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "٣"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "٤"
+                }
+            ],
+            "correct_answer": "٣"
+        },
+        {
+            "id": "fontq006",
+            "question": "ما أقصى عدد للحروف المتتالية التي قد تكون تراكبا رأسيا في كلمة 'الحدس'؟",
+            "answers": [
+                {
+                    "identifier": "٠",
+                    "Answer": "٠"
+                },
+                {
+                    "identifier": "١",
+                    "Answer": "١"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "٢"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "٣"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "٢"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "fontq007",
+            "question": "ما أقصى عدد للحروف المتتالية التي قد تكون تراكبا رأسيا في كلمة 'لحمهما'؟",
+            "answers": [
+                {
+                    "identifier": "٠",
+                    "Answer": "٠"
+                },
+                {
+                    "identifier": "١",
+                    "Answer": "١"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "٢"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "٣"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "٤"
+                }
+            ],
+            "correct_answer": "٤"
+        },
+        {
+            "id": "fontq009",
+            "question": "ما أقصى عدد للحروف المتتالية التي قد تكون تراكبا رأسيا في كلمة 'أدلجهم'؟",
+            "answers": [
+                {
+                    "identifier": "٠",
+                    "Answer": "٠"
+                },
+                {
+                    "identifier": "١",
+                    "Answer": "١"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "٢"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "٣"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "٤"
+                }
+            ],
+            "correct_answer": "٤"
+        },
+        {
+            "id": "fontq010",
+            "question": "ما أقصى عدد للحروف المتتالية التي قد تكون تراكبا رأسيا في كلمة 'السبيل'؟",
+            "answers": [
+                {
+                    "identifier": "٠",
+                    "Answer": "٠"
+                },
+                {
+                    "identifier": "١",
+                    "Answer": "١"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "٢"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "٣"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "٤"
+                }
+            ],
+            "correct_answer": "٠"
+        },
+        {
+            "id": "fontq011",
+            "question": "ما أقصى عدد للحروف المتتالية التي قد تكون تراكبا رأسيا في كلمة 'السبيل'؟",
+            "answers": [
+                {
+                    "identifier": "٠",
+                    "Answer": "٠"
+                },
+                {
+                    "identifier": "١",
+                    "Answer": "١"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "٢"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "٣"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "٤"
+                }
+            ],
+            "correct_answer": "٠"
+        }
+    ]
+}

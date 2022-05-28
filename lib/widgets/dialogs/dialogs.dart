@@ -34,8 +34,8 @@ class Dialogs {
     return (await showDialog(
           context: Get.overlayContext!,
           builder: (context) => AlertDialog(
-            title: const Text('هل انت متأكد؟'),
-            content: const Text('هل تريد إنهاء الأختبار من غير إكماله'),
+            title: const Text('هل أنت متأكد؟'),
+            content: const Text('هل تريد إنهاء الاختبار من غير إكماله'),
             actions: <Widget>[
               TextButton(
                 onPressed: () => Get.back(result: false),

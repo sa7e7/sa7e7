@@ -1,0 +1,92 @@
+{
+    "id": "emla3",
+    "title": "تحسين الإملاء المستوى الثالث",
+    "image_url": "",
+    "Description": "إملاء",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "emla001",
+            "question": "اختر الإملاء الصحيح",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "اللعبة"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "اللعبه"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "emla002",
+            "question": "اختر الإملاء الصحيح",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "أحسنتي"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "أحسنتِ"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "emla003",
+            "question": "اختر الإملاء الصحيح",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "أفئدة"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "أفإدة"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "emla004",
+            "question": "اختر الإملاء الصحيح",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "الطقاط"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "التقاط"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "التقات"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "emla005",
+            "question": "اختر الإملاء الصحيح",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "الثوابت"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "السوابت"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "الثوابٍة"
+                }
+            ],
+            "correct_answer": "١"
+        }
+    ]
+}

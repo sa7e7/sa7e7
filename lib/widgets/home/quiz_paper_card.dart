@@ -71,14 +71,14 @@ class QuizPaperCard extends GetView<QuizPaperController> {
                               return const SizedBox(width: 15);
                             },
                             children: [
-                              IconWithText(
-                                  icon: Icon(Icons.help_outline_sharp,
-                                      color: Colors.blue[700]),
-                                  text: Text(
-                                    '${model.questionsCount} اختبار',
-                                    style: kDetailsTS.copyWith(
-                                        color: Colors.blue[700]),
-                                  )),
+                              // IconWithText(
+                              //     icon: Icon(Icons.help_outline_sharp,
+                              //         color: Colors.blue[700]),
+                              //     text: Text(
+                              //       '${model.questionsCount} اختبار',
+                              //       style: kDetailsTS.copyWith(
+                              //           color: Colors.blue[700]),
+                              //     )),
                               IconWithText(
                                   icon: const Icon(Icons.timer,
                                       color: Colors.blueGrey),
@@ -113,7 +113,7 @@ class QuizPaperCard extends GetView<QuizPaperController> {
                                 topLeft: Radius.circular(kCardBorderrRadius),
                                 bottomRight:
                                     Radius.circular(kCardBorderrRadius)),
-                            color: Theme.of(context).primaryColor),
+                            color: ahmedGreen),
                       ),
                     ))
               ],

@@ -67,7 +67,7 @@ class HomeScreen extends GetView<MyDrawerController> {
                           ],
                         ),
                       ),
-                      const Text('جاهز تصحح لغتك ؟', style: kHeaderTS),
+                      const Text('جاهز لتصحيح لغتك؟', style: kHeaderTS),
                       const SizedBox(height: 15),
                     ],
                   ),

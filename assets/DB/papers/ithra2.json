@@ -1,0 +1,103 @@
+{
+    "id": "ithra2",
+    "title": "تحسين إثراء التراكيب المستوى الثاني",
+    "image_url": "",
+    "Description": "إثراء التراكيب",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "ithra001",
+            "question": "اختر التركيب الأصوب",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "فضليات ذوات خبرة"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "فضليات ذوي خبرة"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "ithra002",
+            "question": "اختر التركيب الأصوب",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "شبان ذوو قوة"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "شبان ذو قوة"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "ithra003",
+            "question": "اختر التركيب الأصوب",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "ثمانية مشاريع"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "ثمان مشاريع"
+                },
+                {
+                    "identifier": "۳",
+                    "Answer": "ثماني مشاريع"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "ithra004",
+            "question": "اختر التركيب الأصوب",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "خمس قصائد"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "خمسة قصائد"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "ithra005",
+            "question": "اختر التركيب الأصوب",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "سيذهبان"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "سيذهبا"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "ithra006",
+            "question": "اختر التركيب الأصوب",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "أن تتخذونه"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "أن تتخذوه"
+                }
+            ],
+            "correct_answer": "٢"
+        }
+    ]
+}

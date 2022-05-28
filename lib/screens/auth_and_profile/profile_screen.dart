@@ -26,10 +26,11 @@ class ProfileScreen extends GetView<ProfileController> {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Row(
-                    children:  [
+                    children: [
                       CircleAvatar(
                         radius: 35,
-                        foregroundImage: NetworkImage(_auth.getUser()!.photoURL!),
+                        foregroundImage:
+                            NetworkImage(_auth.getUser()!.photoURL!),
                       ),
                       const SizedBox(
                         width: 20,
@@ -43,7 +44,7 @@ class ProfileScreen extends GetView<ProfileController> {
                   const Padding(
                     padding: EdgeInsets.only(top: 20),
                     child: Text(
-                      'My recent tests ',
+                      ' اختباراتي الأخيرة',
                       style: TextStyle(
                           color: kOnSurfaceTextColor,
                           fontWeight: FontWeight.bold),
@@ -54,10 +55,10 @@ class ProfileScreen extends GetView<ProfileController> {
             ),
             Expanded(
               child: Obx(
-               () =>  ContentArea(
+                () => ContentArea(
                   addPadding: false,
                   child: ListView.separated(
-                   padding: UIParameters.screenPadding,
+                    padding: UIParameters.screenPadding,
                     itemCount: controller.allRecentTest.length,
                     separatorBuilder: (BuildContext context, int index) {
                       return const SizedBox(
@@ -65,7 +66,8 @@ class ProfileScreen extends GetView<ProfileController> {
                       );
                     },
                     itemBuilder: (BuildContext context, int index) {
-                      return RecentQuizCard(recentTest: controller.allRecentTest[index]);
+                      return RecentQuizCard(
+                          recentTest: controller.allRecentTest[index]);
                     },
                   ),
                 ),

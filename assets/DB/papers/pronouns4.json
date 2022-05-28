@@ -1,0 +1,176 @@
+{
+    "id": "pronouns",
+    "title": "تحسين النطق المستوى الرابع",
+    "image_url": "",
+    "Description": "النطق",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "pronouns001",
+            "question": "حركة ما قبل الواو في 'يرجون'",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "الضمة"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "الفتحة"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "الكسرة"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "السكون"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "pronouns002",
+            "question": "حركة ما قبل الواو في 'يرضون'",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "الفتحة"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "الضمة"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "الكسرة"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "السكون"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "pronouns003",
+            "question": "حركة ما قبل الياء في 'يرجين'",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "الضمة"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "الفتحة"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "الكسرة"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "السكون"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "pronouns004",
+            "question": "حركة ما قبل الياء في 'يرضين'",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "الفتحة"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "الضمة"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "الكسرة"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "السكون"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "pronouns005",
+            "question": "ما مثنى يرجو؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "يرجوان"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "يرجيان"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "pronouns006",
+            "question": "ما مثنى يرضى؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "يرضيان"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "يرضوان"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "pronouns007",
+            "question": "عند الابتداء بكلمة 'ائذن'، تنطق الكلمة كما لو كانت",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "إيذن"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "إئذن"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "pronouns008",
+            "question": "عند الابتداء بكلمة 'ائت'، تنطق الكلمة كما لو كانت",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "إيت"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "إئت"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "pronouns009",
+            "question": "هل ننطق أخر الفعل الأمر 'انضمّ' مفتوحاً أم ساكناً؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "مفتوحا"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "ساكنا"
+                }
+            ],
+            "correct_answer": "١"
+        }
+    ]
+}

@@ -9,6 +9,7 @@ class MainButton extends StatelessWidget {
     this.enabled = true,
     this.child,
     this.color,
+    this.textColor,
   }) : super(key: key);
 
   final String title;
@@ -16,6 +17,7 @@ class MainButton extends StatelessWidget {
   final bool enabled;
   final Widget? child;
   final Color? color;
+  final Color? textColor;
 
   @override
   Widget build(BuildContext context) {
@@ -34,15 +36,15 @@ class MainButton extends StatelessWidget {
                   Center(
                     child: Text(
                       title,
-                      style: const TextStyle(
+                      style: TextStyle(
                           fontWeight: FontWeight.bold,
-                          color: kOnSurfaceTextColor),
+                          color: textColor ?? kOnSurfaceTextColor),
                     ),
                   ),
             ),
             decoration: BoxDecoration(
                 borderRadius: BorderRadius.circular(kButtonCornerRadius),
-                color: color ?? Theme.of(context).primaryColor),
+                color: color ?? ahmedGreen),
           ),
         ),
       ),

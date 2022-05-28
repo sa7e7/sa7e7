@@ -111,7 +111,7 @@ class RecentQuizCard extends StatelessWidget {
                 padding: UIParameters.screenPadding / 2,
                 child: const Center(
                   child: Text(
-                    'Try Again',
+                    '',
                     style: TextStyle(
                         fontWeight: FontWeight.bold,
                         color: kOnSurfaceTextColor),

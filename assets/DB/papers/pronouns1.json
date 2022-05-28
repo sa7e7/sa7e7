@@ -1,13 +1,193 @@
 {
-    "id": "font1",
-    "title": "تحسين الخط المستوى الأول",
+    "id": "pronouns1",
+    "title": "تحسين النطق المستوى الأول",
     "image_url": "",
     "Description": "تحسين الخط",
     "time_seconds": 900,
     "questions": [
         {
-            "id": "fontq001",
-            "question": "هل يمكن أن تكتب الهاء تحت اللام في نحو كلمة 'الهواء'؟",
+            "id": "pronouns001",
+            "question": "هل نلفظ اللام الساكنة في نحو كلمة 'الشمس'؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "pronouns002",
+            "question": "هل نلفظ اللام الساكنة في نحو كلمة 'الثروة'؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "pronouns003",
+            "question": "هل نلفظ اللام الساكنة في نحو كلمة 'الرقيب'؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "pronouns004",
+            "question": "هل نلفظ اللام الساكنة في نحو كلمة 'الزيت'؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "pronouns005",
+            "question": "هل نلفظ اللام الساكنة في نحو كلمة 'الدرس'؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "pronouns006",
+            "question": "هل نلفظ اللام الساكنة في نحو كلمة 'الذرة'؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "pronouns007",
+            "question": "هل نلفظ اللام الساكنة في نحو كلمة 'السماء'؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "pronouns008",
+            "question": "هل نلفظ اللام الساكنة في نحو كلمة 'الصفاء'؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "pronouns009",
+            "question": "هل نلفظ اللام الساكنة في نحو كلمة 'الضرورة'؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "pronouns010",
+            "question": "هل نلفظ اللام الساكنة في نحو كلمة 'الطلائع'؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "pronouns011",
+            "question": "هل نلفظ اللام الساكنة في نحو كلمة 'الظرف'؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "pronouns012",
+            "question": "هل نلفظ اللام الساكنة في نحو كلمة 'النور'؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "pronouns013",
+            "question": "هل نلفظ اللام الساكنة في نحو كلمة 'البيت'؟",
             "answers": [
                 {
                     "identifier": "١",
@@ -21,8 +201,8 @@
             "correct_answer": "١"
         },
         {
-            "id": "fontq002",
-            "question": "هل يمكن أن تكتب الميم تحت اللام في نحو كلمة 'المدرب'؟",
+            "id": "pronouns014",
+            "question": "هل نلفظ اللام الساكنة في نحو كلمة 'الجمعة'؟",
             "answers": [
                 {
                     "identifier": "١",
@@ -36,187 +216,7 @@
             "correct_answer": "١"
         },
         {
-            "id": "fontq003",
-            "question": "هل يمكن أن تكتب الخاء تحت اللام في نحو كلمة 'الخبير'؟",
-            "answers": [
-                {
-                    "identifier": "١",
-                    "Answer": "نعم"
-                },
-                {
-                    "identifier": "٢",
-                    "Answer": "لا"
-                }
-            ],
-            "correct_answer": "١"
-        },
-        {
-            "id": "fontq004",
-            "question": "هل يمكن أن تكتب الحاء تحت اللام في نحو كلمة 'الحرية'؟",
-            "answers": [
-                {
-                    "identifier": "١",
-                    "Answer": "نعم"
-                },
-                {
-                    "identifier": "٢",
-                    "Answer": "لا"
-                }
-            ],
-            "correct_answer": "١"
-        },
-        {
-            "id": "fontq005",
-            "question": "هل يمكن أن تكتب الباء تحت اللام في نحو كلمة 'البادية؟'",
-            "answers": [
-                {
-                    "identifier": "١",
-                    "Answer": "نعم"
-                },
-                {
-                    "identifier": "٢",
-                    "Answer": "لا"
-                }
-            ],
-            "correct_answer": "٢"
-        },
-        {
-            "id": "fontq006",
-            "question": "هل يمكن أن تكتب الدال تحت اللام في نحو كلمة 'الدار'؟'",
-            "answers": [
-                {
-                    "identifier": "١",
-                    "Answer": "نعم"
-                },
-                {
-                    "identifier": "٢",
-                    "Answer": "لا"
-                }
-            ],
-            "correct_answer": "٢"
-        },
-        {
-            "id": "fontq007",
-            "question": "هل يمكن أن تكتب الراء تحت اللام في نحو كلمة 'الرخاء'؟",
-            "answers": [
-                {
-                    "identifier": "١",
-                    "Answer": "نعم"
-                },
-                {
-                    "identifier": "٢",
-                    "Answer": "لا"
-                }
-            ],
-            "correct_answer": "٢"
-        },
-        {
-            "id": "fontq008",
-            "question": "هل يمكن أن تكتب الراء تحت اللام في نحو كلمة 'الرخاء'؟",
-            "answers": [
-                {
-                    "identifier": "١",
-                    "Answer": "نعم"
-                },
-                {
-                    "identifier": "٢",
-                    "Answer": "لا"
-                }
-            ],
-            "correct_answer": "٢"
-        },
-        {
-            "id": "fontq009",
-            "question": "هل يمكن أن تكتب الزاي تحت اللام في نحو كلمة 'لزيد'؟",
-            "answers": [
-                {
-                    "identifier": "١",
-                    "Answer": "نعم"
-                },
-                {
-                    "identifier": "٢",
-                    "Answer": "لا"
-                }
-            ],
-            "correct_answer": "٢"
-        },
-        {
-            "id": "fontq010",
-            "question": "هل يمكن أن تكتب السين تحت اللام في نحو كلمة 'لسلوى'؟",
-            "answers": [
-                {
-                    "identifier": "١",
-                    "Answer": "نعم"
-                },
-                {
-                    "identifier": "٢",
-                    "Answer": "لا"
-                }
-            ],
-            "correct_answer": "٢"
-        },
-        {
-            "id": "fontq011",
-            "question": "هل يمكن أن تكتب الشين تحت اللام في نحو كلمة 'الشدة'؟",
-            "answers": [
-                {
-                    "identifier": "١",
-                    "Answer": "نعم"
-                },
-                {
-                    "identifier": "٢",
-                    "Answer": "لا"
-                }
-            ],
-            "correct_answer": "٢"
-        },
-        {
-            "id": "fontq012",
-            "question": "هل يمكن أن تكتب الصاد تحت اللام في نحو كلمة 'الصياد'؟",
-            "answers": [
-                {
-                    "identifier": "١",
-                    "Answer": "نعم"
-                },
-                {
-                    "identifier": "٢",
-                    "Answer": "لا"
-                }
-            ],
-            "correct_answer": "٢"
-        },
-        {
-            "id": "fontq013",
-            "question": "هل يمكن أن تكتب الطاء تحت اللام في نحو كلمة 'الطارق'؟",
-            "answers": [
-                {
-                    "identifier": "١",
-                    "Answer": "نعم"
-                },
-                {
-                    "identifier": "٢",
-                    "Answer": "لا"
-                }
-            ],
-            "correct_answer": "٢"
-        },
-        {
-            "id": "fontq014",
-            "question": "هل يمكن أن تكتب العين تحت اللام في نحو كلمة 'العين'؟",
-            "answers": [
-                {
-                    "identifier": "١",
-                    "Answer": "نعم"
-                },
-                {
-                    "identifier": "٢",
-                    "Answer": "لا"
-                }
-            ],
-            "correct_answer": "٢"
-        },
-        {
-            "id": "fontq015",
+            "id": "pronouns015",
             "question": "هل يمكن أن تكتب الفاء تحت اللام في نحو كلمة 'الفريق'؟",
             "answers": [
                 {
@@ -231,8 +231,38 @@
             "correct_answer": "٢"
         },
         {
-            "id": "fontq016",
-            "question": "هل يمكن أن تكتب القاف تحت اللام في نحو كلمة 'القوة'؟",
+            "id": "pronouns016",
+            "question": "هل نلفظ اللام الساكنة في نحو كلمة 'الخريف'؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "pronouns017",
+            "question": "هل نلفظ اللام الساكنة في نحو كلمة 'العين'؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "pronouns018",
+            "question": "هل نلفظ اللام الساكنة في نحو كلمة 'الغيم'؟",
             "answers": [
                 {
                     "identifier": "١",
@@ -246,37 +276,7 @@
             "correct_answer": "٢"
         },
         {
-            "id": "fontq017",
-            "question": "هل يمكن أن تكتب الكاف تحت اللام في نحو كلمة 'الكبير'؟",
-            "answers": [
-                {
-                    "identifier": "١",
-                    "Answer": "نعم"
-                },
-                {
-                    "identifier": "٢",
-                    "Answer": "لا"
-                }
-            ],
-            "correct_answer": "٢"
-        },
-        {
-            "id": "fontq018",
-            "question": "هل يمكن أن تكتب النون تحت اللام في نحو كلمة 'النيزك'؟",
-            "answers": [
-                {
-                    "identifier": "١",
-                    "Answer": "نعم"
-                },
-                {
-                    "identifier": "٢",
-                    "Answer": "لا"
-                }
-            ],
-            "correct_answer": "٢"
-        },
-        {
-            "id": "fontq019",
+            "id": "pronouns019",
             "question": "هل يمكن أن تكتب الواو تحت اللام في نحو كلمة 'الوادي'؟",
             "answers": [
                 {
@@ -288,11 +288,11 @@
                     "Answer": "لا"
                 }
             ],
-            "correct_answer": "٢"
+            "correct_answer": "١"
         },
         {
-            "id": "fontq021",
-            "question": "هل يمكن أن تكتب الواو تحت اللام في نحو كلمة 'الوادي'؟",
+            "id": "pronouns021",
+            "question": "هل نلفظ اللام الساكنة في نحو كلمة 'الفريق'؟",
             "answers": [
                 {
                     "identifier": "١",
@@ -303,11 +303,11 @@
                     "Answer": "لا"
                 }
             ],
-            "correct_answer": "٢"
+            "correct_answer": "١"
         },
         {
-            "id": "fontq020",
-            "question": "هل يمكن أن تكتب الياء غير النهائية تحت اللام في نحو كلمة 'اليسير'؟",
+            "id": "pronouns020",
+            "question": "هل نلفظ اللام الساكنة في نحو كلمة 'القوي'؟",
             "answers": [
                 {
                     "identifier": "١",
@@ -318,7 +318,67 @@
                     "Answer": "لا"
                 }
             ],
-            "correct_answer": "٢"
+            "correct_answer": "١"
+        },
+        {
+            "id": "pronouns021",
+            "question": "هل نلفظ اللام الساكنة في نحو كلمة 'الكريم'؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "pronouns022",
+            "question": "هل نلفظ اللام الساكنة في نحو كلمة 'الموقف'؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "pronouns023",
+            "question": "هل نلفظ اللام الساكنة في نحو كلمة 'الهرة'؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "pronouns024",
+            "question": "هل نلفظ اللام الساكنة في نحو كلمة 'اليمين'؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "١"
         }
     ]
 }

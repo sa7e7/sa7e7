@@ -1,0 +1,150 @@
+{
+    "id": "pronouns2",
+    "title": "تحسين النطق المستوى الثالث",
+    "image_url": "",
+    "Description": "تحسين الخط",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "pronouns001",
+            "question": "عند النطق، قد نحرك التاء الساكنة في نحو 'اقتربت الساعة'",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "الضمة"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "الفتحة"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "الكسرة"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "السكون"
+                }
+            ],
+            "correct_answer": "٣"
+        },
+        {
+            "id": "pronouns002",
+            "question": "عند وصل نطق الكلمتين، نحرك آخر الكلمة الأولى في 'بشر الصابرين'",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "الضمة"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "الفتحة"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "الكسرة"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "السكون"
+                }
+            ],
+            "correct_answer": "٣"
+        },
+        {
+            "id": "pronouns003",
+            "question": "عند وصل نطق الكلمتين من 'ادعوا الله'، آخر الكلمة الأولى",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "لا نمد آخر الكلمة الأولى"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "نمد آخر الكلمة"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "pronouns004",
+            "question": "عند الابتداء بهمزة الوصل في كلمة 'امشوا'",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نضم الهمزة"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "نكسر الهمزة"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "نفتح الهمزة"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "نبدأ بساكن"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "pronouns005",
+            "question": "عند الابتداء بهمزة الوصل في كلمة 'اسمع'",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نكسر الهمزة"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "نكسر الهمزة"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "نفتح الهمزة"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "نبدأ بساكن"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "pronouns006",
+            "question": "عند وصل نطق الكلمتين، نحرك آخر الكلمة الأولى في 'قالت امرأة'",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "بالـكسرة"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "بالفتحة"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "بالضمة"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "pronouns006",
+            "question": "_______ الطعام من المنزل",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نفد"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "نفذ"
+                }
+            ],
+            "correct_answer": "١"
+        }
+    ]
+}

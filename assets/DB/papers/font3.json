@@ -1,0 +1,459 @@
+{
+    "id": "font3",
+    "title": "تحسين الخط المستوى الثالث",
+    "image_url": "",
+    "Description": "تحسين الخط",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "fontq001",
+            "question": "هل يمكن أن تكتب الثاء تحت اللام؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "fontq002",
+            "question": "هل يمكن أن تكتب الباء تحت الميم؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "fontq003",
+            "question": "هل يمكن أن تكتب الثاء تحت الميم؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "fontq004",
+            "question": "هل يمكن أن تكتب الدال تحت الميم؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "fontq005",
+            "question": "هل يمكن أن تكتب الراء تحت الميم؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "fontq006",
+            "question": "هل يمكن أن تكتب الكاف تحت الميم؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "fontq007",
+            "question": "هل يمكن أن تكتب السين تحت الميم؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "fontq008",
+            "question": "هل يمكن أن تكتب الصاد تحت الميم؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "fontq009",
+            "question": "هل يمكن أن تكتب الطاء تحت الميم؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "fontq010",
+            "question": "هل يمكن أن تكتب العين تحت الميم؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "fontq011",
+            "question": "هل يمكن أن تكتب الياء النهائية تحت الفاء الأولى؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "fontq012",
+            "question": "هل يمكن أن تكتب القاف تحت الميم؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "نعم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "fontq012",
+            "question": "كم عدد للتراكبات الرأسية التي يمكننا عملها في 'أحمد'؟",
+            "answers": [
+                {
+                    "identifier": "٠",
+                    "Answer": "٠"
+                },
+                {
+                    "identifier": "١",
+                    "Answer": "١"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "٢"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "٣"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "٤"
+                }
+            ],
+            "correct_answer": "1"
+        },
+        {
+            "id": "fontq013",
+            "question": "كم عدد للتراكبات الرأسية التي يمكننا عملها في كلمة 'سعيد'؟",
+            "answers": [
+                {
+                    "identifier": "٠",
+                    "Answer": "٠"
+                },
+                {
+                    "identifier": "١",
+                    "Answer": "١"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "٢"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "٣"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "٤"
+                }
+            ],
+            "correct_answer": "٠"
+        },
+        {
+            "id": "fontq014",
+            "question": "كم عدد للتراكبات الرأسية التي يمكننا عملها في 'المتيم'؟",
+            "answers": [
+                {
+                    "identifier": "٠",
+                    "Answer": "٠"
+                },
+                {
+                    "identifier": "١",
+                    "Answer": "١"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "٢"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "٣"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "٤"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "fontq015",
+            "question": "كم عدد للتراكبات الرأسية التي يمكننا عملها في كلمة 'المتحف'؟",
+            "answers": [
+                {
+                    "identifier": "٠",
+                    "Answer": "٠"
+                },
+                {
+                    "identifier": "١",
+                    "Answer": "١"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "٢"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "٣"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "٤"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "fontq016",
+            "question": "كم عدد للتراكبات الرأسية التي يمكننا عملها في 'مملكة'؟",
+            "answers": [
+                {
+                    "identifier": "٠",
+                    "Answer": "٠"
+                },
+                {
+                    "identifier": "١",
+                    "Answer": "١"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "٢"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "٣"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "٤"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "fontq016",
+            "question": "كم عدد للتراكبات الرأسية التي يمكننا عملها في كلمة 'الرياض'؟",
+            "answers": [
+                {
+                    "identifier": "٠",
+                    "Answer": "٠"
+                },
+                {
+                    "identifier": "١",
+                    "Answer": "١"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "٢"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "٣"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "٤"
+                }
+            ],
+            "correct_answer": "٠"
+        },
+        {
+            "id": "fontq017",
+            "question": "كم عدد للتراكبات الرأسية التي يمكننا عملها في 'حميم'؟",
+            "answers": [
+                {
+                    "identifier": "٠",
+                    "Answer": "٠"
+                },
+                {
+                    "identifier": "١",
+                    "Answer": "١"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "٢"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "٣"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "٤"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "fontq018",
+            "question": "كم عدد للتراكبات الرأسية التي يمكننا عملها في كلمة 'الحليم'؟",
+            "answers": [
+                {
+                    "identifier": "٠",
+                    "Answer": "٠"
+                },
+                {
+                    "identifier": "١",
+                    "Answer": "١"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "٢"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "٣"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "٤"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "fontq020",
+            "question": "كم عدد للتراكبات الرأسية التي يمكننا عملها في كلمة 'مستمر'؟",
+            "answers": [
+                {
+                    "identifier": "٠",
+                    "Answer": "٠"
+                },
+                {
+                    "identifier": "١",
+                    "Answer": "١"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "٢"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "٣"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "٤"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "fontq021",
+            "question": "كم عدد للتراكبات الرأسية التي يمكننا عملها في كلمة 'الهواء'؟",
+            "answers": [
+                {
+                    "identifier": "٠",
+                    "Answer": "٠"
+                },
+                {
+                    "identifier": "١",
+                    "Answer": "١"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "٢"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "٣"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "٤"
+                }
+            ],
+            "correct_answer": "٢"
+        }
+    ]
+}

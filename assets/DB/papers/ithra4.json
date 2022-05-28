@@ -1,0 +1,130 @@
+{
+    "id": "ithra4",
+    "title": "تحسين إثراء التراكيب المستوى الرابع",
+    "image_url": "",
+    "Description": "إثراء التراكيب",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "ithra001",
+            "question": "اختر التركيب الأصوب",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "أربع عشرة بيضة"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "أربعة عشرة بيضة"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "أربعة عشر بيضة"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "أربع عشر بيضة"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "ithra002",
+            "question": "اختر التركيب الأصوب",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "ثلاثة عشرة رجلا"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "ثلاث عشرة رجلا"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "ثلاثة عشر رجلا"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "ثلاث عشر رجلا"
+                }
+            ],
+            "correct_answer": "٣"
+        },
+        {
+            "id": "ithra003",
+            "question": "اختر التركيب الأصوب",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "بضعة وثلاثين أمرا"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "بضعا وثلاثين أمرا"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "ithra004",
+            "question": "اختر التركيب الأصوب",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "بضعا وعشرون جملة"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "بضعة وعشرون جملة"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "ithra005",
+            "question": "اختر التركيب الأصوب",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "أعيدَ الكتاب"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "تمت إعادة الكتاب"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "ithra006",
+            "question": "اختر التركيب الأصوب",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "الأكثر فائدة"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "الأفيد"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "ithra007",
+            "question": "اختر التركيب الأصوب",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "قام بعمل المطلوب"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "عمل المطلوب"
+                }
+            ],
+            "correct_answer": "٢"
+        }
+    ]
+}

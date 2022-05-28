@@ -1,0 +1,144 @@
+{
+    "id": "emla4",
+    "title": "تحسين الإملاء المستوى الرابع",
+    "image_url": "",
+    "Description": "إملاء",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "emla001",
+            "question": "اختر الإملاء الصحيح",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "لا تؤذني يا صديقي"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "لا تؤذيني يا صديقي"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "emla002",
+            "question": "اختر الإملاء الصحيح",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "مهندسو الموقع"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "مهندسوا الموقع"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "emla003",
+            "question": "اختر الإملاء الصحيح",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "متابعو الموقع"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "متابعوا الموقع"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "emla004",
+            "question": "اختر الإملاء الصحيح",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "أكلوا وشربوا"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "أكلو وشربو"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "emla005",
+            "question": "اختر الإملاء الصحيح",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "الأعلا"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "الأعلى"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "emla006",
+            "question": "اختر الإملاء الصحيح",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "شيء"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "شيئ"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "emla007",
+            "question": "اختر الإملاء الصحيح",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "شاطء"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "شاطئ"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "emla008",
+            "question": "اختر الإملاء الصحيح",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "عامود"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "عمود"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "emla009",
+            "question": "اختر الإملاء الصحيح",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "أدعوا الله لكم"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "أدعو الله لكم"
+                }
+            ],
+            "correct_answer": "٢"
+        }
+    ]
+}

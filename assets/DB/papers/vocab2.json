@@ -1,0 +1,116 @@
+{
+    "id": "vocab2",
+    "title": "تحسين إثراء المفردات المستوى الثاني",
+    "image_url": "",
+    "Description": "المقابل الفصيح وإثراء المفردات",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "vocab001",
+            "question": "اختر البديل الأفصح مما يلي",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "البوفية"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "المقهى"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "القهوة"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "الكافيه"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "vocab002",
+            "question": "(ما هي ترجمة كلمة (سكانر (scanner) المعربة؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "الناسوخ"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "الماسح الضوئي"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "الهاتف"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "الرائي"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "vocab003",
+            "question": "ما تعريب كلمة (البكلوريوس)؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "العالية"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "العالمية"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "العالمية العالية"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "vocab004",
+            "question": "ما تعريب كلمة (الدكتوراه)؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "العالمية"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "العالمية العالية"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "العالية"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "vocab005",
+            "question": "ما تعريب كلمة (الماجستير)؟",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "العالمية"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "العالية"
+                },
+                {
+                    "identifier": "٣",
+                    "Answer": "العالمية العالية"
+                },
+                {
+                    "identifier": "٤",
+                    "Answer": "الماستر"
+                }
+            ],
+            "correct_answer": "٢"
+        }
+    ]
+}

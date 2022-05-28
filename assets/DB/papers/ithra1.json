@@ -1,0 +1,99 @@
+{
+    "id": "ithra1",
+    "title": "تحسين إثراء التراكيب المستوى الأول",
+    "image_url": "",
+    "Description": "إثراء التراكيب",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "ithra001",
+            "question": "اختر التركيب الأصوب",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "إلى المعلمين"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "إلى المعلمان"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "ithra002",
+            "question": "اختر التركيب الأصوب",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "مع المتعلمين"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "مع المتعلمون"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "ithra003",
+            "question": "اختر التركيب الأصوب",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "كلا الجنتين"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "كلتا الجنتين"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "ithra004",
+            "question": "اختر التركيب الأصوب",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "كلتا الأمرين"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "كلا الأمرين"
+                }
+            ],
+            "correct_answer": "٢"
+        },
+        {
+            "id": "ithra005",
+            "question": "اختر التركيب الأصوب",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "أحد عيوبها"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "إحدى عيوبها"
+                }
+            ],
+            "correct_answer": "١"
+        },
+        {
+            "id": "ithra006",
+            "question": "اختر التركيب الأصوب",
+            "answers": [
+                {
+                    "identifier": "١",
+                    "Answer": "إحداهن"
+                },
+                {
+                    "identifier": "٢",
+                    "Answer": "أحدهن"
+                }
+            ],
+            "correct_answer": "١"
+        }
+    ]
+}
